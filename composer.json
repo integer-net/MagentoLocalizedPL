@@ -2,7 +2,7 @@
    "name": "integer-net/magento-localized-pl",
    "type": "magento-module",
    "description": "Polish Localization package for Magento Localized (aka Magento PL)",
-   "homepage": "https://github.com/integer-net/MagentoLocalizedRO",
+   "homepage": "https://github.com/integer-net/MagentoLocalizedPL",
    "require": {
       "magento-hackathon/magento-composer-installer": "*"
    }
